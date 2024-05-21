@@ -1,0 +1,10 @@
+{
+  "emailInput": "#mail",
+  "passwordInput": "#pass",
+  "loginButton": "#loginButton",
+  "message": "#messageHeader",
+  "closeButton": "#exitMessageButton > .exitIcon",
+  "fogotPassButton": "#forgotEmailButton",
+  "restorePassEmailInput": "#mailForgot",
+  "restorePassButton": "#restoreEmailButton"
+}

@@ -1,0 +1,13 @@
+{
+  "correctLogin": "german@dolnikov.ru",
+  "correctPassword": "iLoveqastudio1",
+  "incorrectLogin": "germann@dolnikovv.ruu",
+  "incorrectPassword": "iLoveqastudio2",
+  "loginNoAtSymbol": "germann.dolnikovv.ruu",
+  "loginWithCapitals": "GerMan@Dolnikov.ru",
+
+  "authSuccessText": "Авторизация прошла успешно",
+  "restoreCodeSentText": "Успешно отправили пароль на e-mail",
+  "authFailText": "Такого логина или пароля нет",
+  "validationFailText": "Нужно исправить проблему валидации"
+}
